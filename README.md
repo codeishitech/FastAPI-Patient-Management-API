@@ -22,7 +22,60 @@ This project demonstrates request validation, path/query parameters, computed fi
 
 ## Project Structure
 
-```bash
-.
 ├── main.py
 └── patient.json
+
+## API Endpoints
+GET / - Welcome message
+GET /about - About this API
+GET /view - View all patients
+GET /patient/{patient_id} - View one patient
+GET /sort?sort_by=age&order=asc|desc - Sort patients
+POST /create - Create a new patient
+PUT /edit/{patient_id} - Update an existing patient
+
+## Request Models
+Create Patient (POST /create)
+## Required fields:
+id (string)
+name (string)
+city (string)
+age (int, > 0 and < 100)
+gender (male or female)
+weight (int, > 0)
+height (int, > 0)
+medical_history (list of strings)
+
+## Update Patient (PUT /edit/{patient_id})
+All fields optional:
+
+name
+city
+age
+gender
+weight
+height
+medical_history
+
+## How to Run Locally
+1. Clone the repository
+
+git clone <your-repo-url>
+cd <your-repo-folder>
+
+2. Install dependencies
+   pip install fastapi uvicorn
+
+3. Start the server
+  uvicorn main:app --reload
+
+4. Open docs in browser
+
+
+Notes
+Data is stored in patient.json.
+This is a learning/demo project and not intended for production use.
+
+
+
+
