@@ -1,0 +1,154 @@
+{
+  "p001": {
+    "name": "John Doe",
+    "city": "mumbai",
+    "age": 30,
+    "gender": "male",
+    "weight": 75,
+    "height": 180,
+    "bmi": 23.15,
+    "medical_history": ["Hypertension", "Diabetes"]
+  },
+  "p002": {
+    "name": "Jane Smith",
+    "city": "mumbai",
+    "age": 25,
+    "gender": "female",
+    "weight": 65,
+    "height": 165,
+    "bmi": 23.88,
+    "medical_history": ["Asthma"]
+  },
+  "p003": {
+    "name": "Emily Davis",
+    "city": "mumbai",
+    "age": 40,
+    "gender": "female",
+    "weight": 70,
+    "height": 170,
+    "bmi": 24.22,
+    "medical_history": ["Allergy to Penicillin"]
+  },
+  "p004": {
+    "name": "Mike Black",
+    "city": "mumbai",
+    "age": 36,
+    "gender": "male",
+    "weight": 80,
+    "height": 175,
+    "medical_history": ["High Cholesterol"],
+    "bmi": 26.12
+  },
+  "p005": {
+    "name": "rowling",
+    "city": "delhi",
+    "age": 36,
+    "gender": "female",
+    "weight": 12,
+    "height": 123,
+    "medical_history": ["wheat"],
+    "bmi": 7.93
+  },
+  "p007": {
+  "name": "Arjun Mehta",
+  "city": "delhi",
+  "age": 29,
+  "gender": "male",
+  "weight": 68,
+  "height": 172,
+  "bmi": 22.98,
+  "medical_history": ["Thyroid"]
+},
+"p008": {
+  "name": "Sara Khan",
+  "city": "lucknow",
+  "age": 34,
+  "gender": "female",
+  "weight": 82,
+  "height": 178,
+  "bmi": 25.87,
+  "medical_history": ["PCOS"]
+},
+"p009": {
+  "name": "Riya Sharma",
+  "city": "jaipur",
+  "age": 22,
+  "gender": "female",
+  "weight": 54,
+  "height": 160,
+  "bmi": 21.09,
+  "medical_history": ["Anemia"]
+},
+"p010": {
+  "name": "Vikram Rao",
+  "city": "hyderabad",
+  "age": 41,
+  "gender": "male",
+  "weight": 90,
+  "height": 182,
+  "bmi": 27.18,
+  "medical_history": ["Diabetes"]
+},
+"p011": {
+  "name": "Neha Verma",
+  "city": "chandigarh",
+  "age": 19,
+  "gender": "female",
+  "weight": 47,
+  "height": 155,
+  "bmi": 19.56,
+  "medical_history": ["Vitamin D Deficiency"]
+},
+"p012": {
+  "name": "Karan Singh",
+  "city": "pune",
+  "age": 37,
+  "gender": "male",
+  "weight": 73,
+  "height": 168,
+  "bmi": 25.86,
+  "medical_history": ["Hypertension"]
+},
+"p013": {
+  "name": "Aisha Thomas",
+  "city": "kochi",
+  "age": 26,
+  "gender": "female",
+  "weight": 60,
+  "height": 170,
+  "bmi": 20.76,
+  "medical_history": ["Asthma"]
+},
+"p014": {
+  "name": "Rohit Kulkarni",
+  "city": "nagpur",
+  "age": 45,
+  "gender": "male",
+  "weight": 95,
+  "height": 185,
+  "bmi": 27.77,
+  "medical_history": ["High Cholesterol"]
+},
+"p015": {
+  "name": "Sneha Iyer",
+  "city": "chennai",
+  "age": 31,
+  "gender": "female",
+  "weight": 66,
+  "height": 162,
+  "bmi": 25.15,
+  "medical_history": ["Migraine"]
+},
+"p016": {
+  "name": "Aditya Kapoor",
+  "city": "gurgaon",
+  "age": 28,
+  "gender": "male",
+  "weight": 58,
+  "height": 169,
+  "bmi": 20.31,
+  "medical_history": ["None"]
+}
+
+
+}
